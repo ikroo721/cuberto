@@ -1,0 +1,1 @@
+<svg class="cb-svgsprite -logo"><use xlink:href="/assets/sprites/svgsprites.svg#logo"></use></svg>
